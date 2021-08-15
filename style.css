@@ -121,6 +121,33 @@
     width: 170px!important;
     float: right !important;
 }
+.form-select2{
+    width: 170px!important;
+    float: right !important;
+    font-size: 20px;
+    height: 38.8px;
+}
+.form-select3{
+    width: 170px!important;
+    float: right !important;
+    font-size: 20px;
+    height: 39px;
+}
+.form-select4{
+    width: 190px!important;
+    float: right !important;
+    font-size: 22px;
+    height: 42px;
+    margin-top: 5px;
+    margin-right: 11px;
+}
+.form-select5{
+    width: 190px!important;
+    float: right !important;
+    font-size: 18px;
+    height: 39px;
+    margin-right: 11px;
+}
 .title h5{
     font-size: 15px;
     font-family: "Times New Roman", Times, serif;
@@ -172,7 +199,7 @@ a{
 }
 .table-list h2{
     border-bottom:1px solid rgb(56, 51, 51) ;
-    width: 98%;
+    width: 95%;
 }
 .name{
     font-size: 10px;
@@ -822,7 +849,7 @@ a{
 .new h2{
     margin-bottom: 0;
     font-family: 'Roboto Slab', serif;
-    width: 97%;
+    width:100%;
 }
 @media screen and (max-width:414px){
     .desct{
